@@ -1,5 +1,5 @@
 # 🌀 ROT47
-The rot47 module is a simple Node.js module for encoding and decoding text in ROT47.
+The **@sefinek/rot47** module is a simple Node.js module for encoding and decoding text in ROT47.
 
 ## 📥 Installation
 To install the module, use the following command:
