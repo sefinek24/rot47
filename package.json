@@ -1,0 +1,24 @@
+{
+  "name": "encode-decode-rot47",
+  "version": "1.0.0",
+  "description": "Encode or decode ROT47.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "encode",
+    "decode",
+    "rot47"
+  ],
+  "author": "Sefinek (https://sefinek.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefinek24/encode-decode-rot47.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sefinek24/encode-decode-rot47/issues"
+  },
+  "homepage": "https://github.com/sefinek24/encode-decode-rot47#readme"
+}
