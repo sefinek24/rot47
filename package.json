@@ -1,7 +1,7 @@
 {
-  "name": "encode-decode-rot47",
+  "name": "@sefinek/rot47",
   "version": "1.0.0",
-  "description": "Encode or decode ROT47.",
+  "description": "Encode or decode string in ROT47.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
