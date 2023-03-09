@@ -1,4 +1,4 @@
-# 🌀 ROT47
+# 🌀 ROT47 - Encode and Decode
 The [@sefinek/rot47](https://www.npmjs.com/package/@sefinek/rot47) module is a simple Node.js module for encoding and decoding text in ROT47.
 
 ## 📥 Installation
