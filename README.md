@@ -1,4 +1,4 @@
-## 🌀 ROT47
+# 🌀 ROT47
 The rot47 module is a simple Node.js module for encoding and decoding text in ROT47.
 
 ## 📥 Installation
