@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sefinek24/encode-decode-rot47.git"
+    "url": "git+https://github.com/sefinek24/rot47.git"
   },
   "bugs": {
-    "url": "https://github.com/sefinek24/encode-decode-rot47/issues"
+    "url": "https://github.com/sefinek24/rot47/issues"
   },
-  "homepage": "https://github.com/sefinek24/encode-decode-rot47#readme"
+  "homepage": "https://github.com/sefinek24/rot47#readme"
 }
