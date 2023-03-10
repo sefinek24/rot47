@@ -1,15 +1,18 @@
 {
   "name": "@sefinek/rot47",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encode or decode string in ROT47.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "up": "ncu -u && npm install && npm update && npm audit fix"
   },
   "keywords": [
     "encode",
     "decode",
-    "rot47"
+    "rot47",
+    "encode-rot47",
+    "decode-rot47"
   ],
   "author": "Sefinek (https://sefinek.net)",
   "license": "MIT",
@@ -20,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sefinek24/rot47/issues"
   },
-  "homepage": "https://github.com/sefinek24/rot47#readme"
+  "homepage": "https://github.com/sefinek24/rot47#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
