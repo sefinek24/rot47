@@ -1,6 +1,6 @@
 {
   "name": "@sefinek/rot47",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Encode or decode string in ROT47.",
   "main": "index.js",
   "scripts": {
