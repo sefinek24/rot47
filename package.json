@@ -3,11 +3,15 @@
   "version": "1.0.5",
   "description": "Encode or decode string in ROT47.",
   "keywords": [
-    "encode",
     "decode",
-    "rot47",
+    "decode-rot47",
+    "encode",
     "encode-rot47",
-    "decode-rot47"
+    "rot-47",
+    "rot-47-decode",
+    "rot-47-encode",
+    "rot-47-encoder",
+    "rot47"
   ],
   "homepage": "https://github.com/sefinek24/rot47#readme",
   "bugs": {
